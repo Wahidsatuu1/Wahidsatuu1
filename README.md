@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://img.shields.io/badge/Semester-7-red?style=for-the-badge&logo=unicef" />
+  <img src="https://img.shields.io/badge/University-UNTAG_Surabaya-blue?style=for-the-badge" />
+</p>
 
-<!--
-**Wahidsatuu1/Wahidsatuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello world, Saya [Moch Abdul Wahid]! 🚀
+Saya Seorang Mahasiswa Semester 6 Di Universitas 17 Agustus 1945 Surabaya Teknik Informatika 
+👨‍💻 Software Engineer | Tech Explorer
 
-Here are some ideas to get you started:
+Saya seorang pengembang yang senang memecahkan masalah kompleks, mulai dari membangun web apps hingga bereksperimen dengan teknologi baru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on: Web Development & Extended Reality (XR) Projects
+- 🌱 Learning: Machine Learning Algorithms (SVM/K-NN) & Game Dev
+- 🥅 Goals: Bridging the gap between Web and AI
+- ⚡ Fun fact: I love classic motorbikes!
+
+🧠 Skills & Interests
+Languages: PHP, Python, MATLAB, Lua
+Frameworks: Laravel, TensorFlow
+Tools: Unity, Roblox Studio, VS Code
+
