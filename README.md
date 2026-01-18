@@ -25,8 +25,5 @@ Tools: Unity, Roblox Studio, VS Code
 🔥 Statistik Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wahid&theme=tokyonight&hide_border=true)
 
-🏆 Koleksi Trofi
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wahid&theme=tokyonight&no-frame=true&row=1&column=6)
-
 📈 Grafik Aktivitas
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wahid&theme=tokyo-night&hide_border=true)
