@@ -19,3 +19,8 @@ Languages: PHP, Python, MATLAB, Lua
 Frameworks: Laravel, TensorFlow
 Tools: Unity, Roblox Studio, VS Code
 
+📊 Statistik Aktivitas
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Moch Abdul Wahid]&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[Moch Abdul Wahid]&theme=tokyonight" />
+</p>
