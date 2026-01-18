@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/Semester-6-purple?style=for-the-badge&logo=unicef" />
+  <img src="https://img.shields.io/badge/Universitas 17 Agustus 1945 Surabaya-UNTAG_Surabaya-red?style=for-the-badge" />
+</p>
 
 # Hello World, I'm Moch Abdul Wahid! 🚀
 
@@ -42,9 +46,6 @@ Saya adalah pengembang yang senang memecahkan masalah kompleks—mulai dari memb
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wahid&theme=tokyonight&hide_border=true)
-
-### 🏆 Trophy Collection
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wahid&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
