@@ -19,21 +19,14 @@ Languages: PHP, Python, MATLAB, Lua
 Frameworks: Laravel, TensorFlow
 Tools: Unity, Roblox Studio, VS Code
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Moch Abdul Wahid]&show_icons=true&theme=radical)
----------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Statistik Aktivitas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Wahid=Wahid-github-kamu&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Wahid=Wahid-github-kamu&layout=compact&theme=radical" width="44%" />
-</div>
--------------------------------------------------------------------------------------------------------------------------------------------------------
-Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wahid-github-kamu&theme=radical&hide_border=true)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-Trophy Case
-[![Trophy](https://github-profile-trophy.vercel.app/?Wahid-github-kamu&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
------------------------------------------------------------------------------------------------------------------------------------------------------
-Grafik Aktivitas
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?Wahid-github-kamu&theme=react-dark)
------------------------------------------------------------------------------------------------------------------------------------------------------
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wahid&show_icons=true&theme=tokyonight&hide_border=true)
+
+🔥 Statistik Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Wahid&theme=tokyonight&hide_border=true)
+
+🏆 Koleksi Trofi
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wahid&theme=tokyonight&no-frame=true&row=1&column=6)
+
+📈 Grafik Aktivitas
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wahid&theme=tokyo-night&hide_border=true)
