@@ -18,12 +18,13 @@ Saya seorang pengembang yang senang memecahkan masalah kompleks, mulai dari memb
 Languages: PHP, Python, MATLAB, Lua
 Frameworks: Laravel, TensorFlow
 Tools: Unity, Roblox Studio, VS Code
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Statistik Aktivitas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wahid&show_icons=true&theme=tokyonight&hide_border=true)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 🔥 Statistik Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wahid&theme=tokyonight&hide_border=true)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Grafik Aktivitas
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wahid&theme=tokyo-night&hide_border=true)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
