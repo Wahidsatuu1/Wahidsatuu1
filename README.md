@@ -35,7 +35,7 @@ Saya adalah pengembang yang senang memecahkan masalah kompleks—mulai dari memb
 ### 🛠️ Tools & Engines
 ![Unity](https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=ffffff)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0d1117?style=for-the-badge&logo=roblox&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
+![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
 
 ---
 
