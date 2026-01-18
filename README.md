@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Semester-6-Puple?style=for-the-badge&logo=unicef" />
-  <img src="https://img.shields.io/badge/Universitas 17 Agustus 1945 Surabaya-UNTAG_Surabaya-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Universitas 17 Agustus 1945 Surabaya-UNTAG_Surabaya-red?style=for-the-badge" />
 </p>
 
 Hello world, Saya [Moch Abdul Wahid]! 🚀
