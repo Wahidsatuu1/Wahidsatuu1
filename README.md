@@ -1,30 +1,79 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/Semester-6-purple?style=for-the-badge&logo=unicef" />
-  <img src="https://img.shields.io/badge/Universitas 17 Agustus 1945 Surabaya-UNTAG_Surabaya-red?style=for-the-badge" />
-</p>
 
-Hello world, Saya [Moch Abdul Wahid]! 🚀
-Saya Seorang Mahasiswa Semester 6 Di Universitas 17 Agustus 1945 Surabaya Teknik Informatika 
-👨‍💻 Software Engineer | Tech Explorer
+# Hello World, I'm Moch Abdul Wahid! 🚀
 
-Saya seorang pengembang yang senang memecahkan masalah kompleks, mulai dari membangun web apps hingga bereksperimen dengan teknologi baru.
+👨‍💻 **Software Engineer | AI & XR Explorer**  
+🏍️ *Classic Motorbike Enthusiast*
 
-- 🔭 Working on: Web Development & Extended Reality (XR) Projects
-- 🌱 Learning: Machine Learning Algorithms (SVM/K-NN) & Game Dev
-- 🥅 Goals: Bridging the gap between Web and AI
-- ⚡ Fun fact: I love classic motorbikes!
+Saya adalah pengembang yang senang memecahkan masalah kompleks—mulai dari membangun **web applications**, mengembangkan **AI models**, hingga bereksperimen dengan **Extended Reality (XR)** dan **Game Development**.
 
-🧠 Skills & Interests
-Languages: PHP, Python, MATLAB, Lua
-Frameworks: Laravel, TensorFlow
-Tools: Unity, Roblox Studio, VS Code
--------------------------------------------------------------------------------------------------------------------------------------------------------
-📊 Statistik Aktivitas
+---
+
+## 🚀 About Me
+- 🔭 **Working on:** Web Development & XR Projects  
+- 🌱 **Learning:** Machine Learning Algorithms (SVM, K-NN) & Game Development  
+- 🥅 **Goal:** Bridging the gap between **Web Technologies & Artificial Intelligence**  
+- ⚡ **Fun Fact:** I love restoring and riding classic motorbikes 🏍️  
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777bb4)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=ff7f00)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2c2d72)
+
+### 🧩 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=ff2d20)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+
+### 🛠️ Tools & Engines
+![Unity](https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=ffffff)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0d1117?style=for-the-badge&logo=roblox&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
+
+---
+
+## 📊 GitHub Statistics
+
+### 📈 Activity Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wahid&show_icons=true&theme=tokyonight&hide_border=true)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-🔥 Statistik Streak
+
+### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wahid&theme=tokyonight&hide_border=true)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-📈 Grafik Aktivitas
+
+### 🏆 Trophy Collection
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wahid&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## 📉 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wahid&theme=tokyo-night&hide_border=true)
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## 🔤 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahid&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏍️ Classic Motorbike Mindset
+> *“Clean code is like a well-tuned engine—smooth, efficient, and built to last.”*
+
+- Precision over speed  
+- Simplicity over complexity  
+- Consistency over hype  
+
+---
+
+## 🤝 Let's Connect
+- 💬 Discuss **Web, AI, XR, or Game Dev**
+- 🛠️ Open for collaboration & learning
+- ⭐ If you like my work, consider starring my repositories!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0f3460&height=120&section=footer"/>
+</p>
