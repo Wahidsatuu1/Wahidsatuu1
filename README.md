@@ -19,8 +19,21 @@ Languages: PHP, Python, MATLAB, Lua
 Frameworks: Laravel, TensorFlow
 Tools: Unity, Roblox Studio, VS Code
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Moch Abdul Wahid]&show_icons=true&theme=radical)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Statistik Aktivitas
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Moch Abdul Wahid]&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[Moch Abdul Wahid]&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?Wahid=Wahid-github-kamu&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Wahid=Wahid-github-kamu&layout=compact&theme=radical" width="44%" />
+</div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wahid-github-kamu&theme=radical&hide_border=true)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Trophy Case
+[![Trophy](https://github-profile-trophy.vercel.app/?Wahid-github-kamu&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Grafik Aktivitas
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?Wahid-github-kamu&theme=react-dark)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
