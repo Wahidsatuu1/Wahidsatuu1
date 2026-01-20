@@ -39,13 +39,9 @@ Saya adalah pengembang yang senang memecahkan masalah kompleks—mulai dari memb
 
 ---
 
-## 📊 GitHub Statistics
 
 ### 📈 Activity Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wahid&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Wahid&theme=tokyonight&hide_border=true)
 
 ---
 
