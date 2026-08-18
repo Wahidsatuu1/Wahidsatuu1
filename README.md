@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Semester-6-purple?style=for-the-badge&logo=unicef" />
+  <img src="https://img.shields.io/badge/Semester-7-Blue?style=for-the-badge&logo=unicef" />
   <img src="https://img.shields.io/badge/Universitas 17 Agustus 1945 Surabaya-UNTAG_Surabaya-red?style=for-the-badge" />
 </p>
 
