@@ -5,18 +5,28 @@
 
 # Hello World, I'm Moch Abdul Wahid! 🚀
 
-👨‍💻 **Software Engineer | AI & XR Explorer**  
-🏍️ *Classic Motorbike Enthusiast*
+👨‍💻 Full-Stack Developer | Software Engineer | AI & XR Explorer
+🌐 Website & Application Developer
+🏍️ Classic Motorbike Enthusiast
 
-Saya adalah pengembang yang senang memecahkan masalah kompleks—mulai dari membangun **web applications**, mengembangkan **AI models**, hingga bereksperimen dengan **Extended Reality (XR)** dan **Game Development**.
+Saya adalah Full-Stack Developer yang berfokus pada pengembangan website dan aplikasi, mulai dari merancang antarmuka pengguna hingga membangun sistem backend, database, dan API. Saya juga tertarik pada Artificial Intelligence (AI), Extended Reality (XR), dan Game Development.
+
+Saya senang memecahkan masalah kompleks dan mengubah ide menjadi aplikasi yang fungsional, modern, dan mudah digunakan.
 
 ---
 
 ## 🚀 About Me
-- 🔭 **Working on:** Web Development & XR Projects  
-- 🌱 **Learning:** Machine Learning Algorithms (SVM, K-NN) & Game Development  
-- 🥅 **Goal:** Bridging the gap between **Web Technologies & Artificial Intelligence**  
-- ⚡ **Fun Fact:** I love restoring and riding classic motorbikes 🏍️  
+💻 Full-Stack Development: Membangun website dan aplikasi dari frontend hingga backend
+🌐 Web Development: Mengembangkan website dinamis, sistem informasi, dashboard, dan web applications
+📱 Application Development: Bereksperimen dengan pengembangan aplikasi dan interactive applications
+🔧 Backend Development: Laravel, PHP, REST API, dan database management
+🎨 Frontend Development: Membangun UI yang responsif dan user-friendly
+🗄️ Database: MySQL dan database design
+🤖 Artificial Intelligence: Machine Learning & Deep Learning
+🥽 XR & Game Development: Unity, Roblox Studio, dan teknologi immersive
+🌱 Currently Learning: Machine Learning Algorithms (SVM, K-NN) & Game Development
+🥅 Goal: Bridging the gap between Full-Stack Web Development, Applications & Artificial Intelligence
+⚡ Fun Fact: I love restoring and riding classic motorbikes 🏍️
 
 ---
 
@@ -43,20 +53,27 @@ Saya adalah pengembang yang senang memecahkan masalah kompleks—mulai dari memb
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wahid&theme=tokyo-night&hide_border=true)
 
 ---
+## 🌐 What I Build
+🌐 Website & Web Applications ├── Business Websites ├── Information Systems ├── Admin Dashboards ├── CRUD Applications ├── REST API └── Database-Driven Applications 
+📱 Applications ├── Interactive Applications ├── Application Interfaces └── Application Prototypes 
+🤖 Artificial Intelligence ├── Machine Learning ├── Deep Learning └── AI Experiments 
+🎮 XR & Game Development ├── Unity Projects ├── Roblox Projects └── Interactive Experiences
+---
 
 ## 🏍️ Classic Motorbike Mindset
-> *“Clean code is like a well-tuned engine—smooth, efficient, and built to last.”*
+> *“Kode yang bersih itu ibarat mesin yang disetel dengan sempurna—berjalan mulus, efisien, dan tahan lama.”*
 
-- Precision over speed  
-- Simplicity over complexity  
-- Consistency over hype  
+- Presisi di atas kecepatan  
+- Kesederhanaan di atas kerumitan  
+- Konsistensi di atas tren sesaat
 
 ---
 
 ## 🤝 Let's Connect
-- 💬 Discuss **Web, AI, XR, or Game Dev**
-- 🛠️ Open for collaboration & learning
-- ⭐ If you like my work, consider starring my repositories!
+💬 Mari berdiskusi tentang Full-Stack Development, Web, AI, XR, atau pengembangan game
+🌐 Tertarik membangun situs web dan aplikasi
+🛠️ Terbuka untuk kolaborasi & belajar
+⭐ Jika Anda menyukai karya saya, silakan beri bintang pada repositori saya!
 
 ---
 
