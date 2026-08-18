@@ -15,7 +15,7 @@ Saya senang memecahkan masalah kompleks dan mengubah ide menjadi aplikasi yang f
 
 ---
 
-## ## 🚀 Tentang Saya
+🚀 Tentang Saya
 
 Saya adalah **Full-Stack Developer** yang berfokus pada pengembangan **website dan aplikasi**. Saya terbiasa mengembangkan sistem dari sisi **frontend, backend, database, hingga API**.
 
@@ -82,7 +82,7 @@ Saya memiliki ketertarikan pada **motor klasik**, terutama dalam merawat, memper
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
 
 ---
-## ## 🌐 What I Build
+Keahlian & Proyek
 
 | Bidang                         | Fokus                                                            |
 | ------------------------------ | ---------------------------------------------------------------- |
