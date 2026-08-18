@@ -53,11 +53,16 @@ Saya senang memecahkan masalah kompleks dan mengubah ide menjadi aplikasi yang f
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wahid&theme=tokyo-night&hide_border=true)
 
 ---
-## 🌐 What I Build
-🌐 Website & Web Applications ├── Business Websites ├── Information Systems ├── Admin Dashboards ├── CRUD Applications ├── REST API └── Database-Driven Applications 
-📱 Applications ├── Interactive Applications ├── Application Interfaces └── Application Prototypes 
-🤖 Artificial Intelligence ├── Machine Learning ├── Deep Learning └── AI Experiments 
-🎮 XR & Game Development ├── Unity Projects ├── Roblox Projects └── Interactive Experiences
+## ## 🌐 What I Build
+
+| Bidang                         | Fokus                                                            |
+| ------------------------------ | ---------------------------------------------------------------- |
+| 🌐 **Web Development**         | Website, Web Application, Sistem Informasi, Dashboard & REST API |
+| 📱 **Application Development** | Aplikasi Interaktif, UI/UX & Application Prototype               |
+| 🤖 **Artificial Intelligence** | Machine Learning, Deep Learning & AI Experiments                 |
+| 🎮 **XR & Game Development**   | Unity, Roblox & Interactive Experiences                          |
+| 🗄️ **Backend & Database**     | Laravel, PHP, MySQL & Database Management                        |
+
 ---
 
 ## 🏍️ Classic Motorbike Mindset
