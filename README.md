@@ -15,18 +15,52 @@ Saya senang memecahkan masalah kompleks dan mengubah ide menjadi aplikasi yang f
 
 ---
 
-## 🚀 About Me
-💻 Full-Stack Development: Membangun website dan aplikasi dari frontend hingga backend
-🌐 Web Development: Mengembangkan website dinamis, sistem informasi, dashboard, dan web applications
-📱 Application Development: Bereksperimen dengan pengembangan aplikasi dan interactive applications
-🔧 Backend Development: Laravel, PHP, REST API, dan database management
-🎨 Frontend Development: Membangun UI yang responsif dan user-friendly
-🗄️ Database: MySQL dan database design
-🤖 Artificial Intelligence: Machine Learning & Deep Learning
-🥽 XR & Game Development: Unity, Roblox Studio, dan teknologi immersive
-🌱 Currently Learning: Machine Learning Algorithms (SVM, K-NN) & Game Development
-🥅 Goal: Bridging the gap between Full-Stack Web Development, Applications & Artificial Intelligence
-⚡ Fun Fact: I love restoring and riding classic motorbikes 🏍️
+## ## 🚀 Tentang Saya
+
+Saya adalah **Full-Stack Developer** yang berfokus pada pengembangan **website dan aplikasi**. Saya terbiasa mengembangkan sistem dari sisi **frontend, backend, database, hingga API**.
+
+### 💻 Pengembangan Web
+
+* 🌐 Membuat website dan aplikasi web
+* 🏢 Mengembangkan sistem informasi
+* 📊 Membuat dashboard dan aplikasi administrasi
+* 🔗 Mengembangkan REST API
+* 🗄️ Mengelola database dan sistem berbasis data
+
+### 📱 Pengembangan Aplikasi
+
+* 📱 Membuat aplikasi interaktif
+* 🎨 Merancang antarmuka aplikasi yang responsif
+* 🧩 Mengembangkan prototipe aplikasi
+
+### ⚙️ Backend & Frontend
+
+* 🔧 **Backend:** PHP, Laravel, REST API
+* 🎨 **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* 🗄️ **Database:** MySQL dan perancangan database
+
+### 🤖 Artificial Intelligence
+
+* 🧠 Machine Learning
+* 🔬 Deep Learning
+* 📊 Eksperimen dan pengolahan data
+* 🌱 Sedang mempelajari algoritma **SVM dan K-NN**
+
+### 🎮 XR & Game Development
+
+* 🎯 Pengembangan game menggunakan Unity
+* 🕹️ Eksperimen dengan Roblox Studio
+* 🥽 Pengembangan pengalaman interaktif dan teknologi XR
+
+### 🎯 Tujuan
+
+Mengembangkan solusi digital dengan menggabungkan **Full-Stack Development, Artificial Intelligence, dan teknologi interaktif** untuk menghasilkan website dan aplikasi yang bermanfaat, modern, dan mudah digunakan.
+
+### 🏍️ Di Luar Dunia Pemrograman
+
+Saya memiliki ketertarikan pada **motor klasik**, terutama dalam merawat, memperbaiki, dan mengendarainya.
+
+> **"Kode yang baik seperti mesin yang terawat — sederhana, efisien, dan dapat diandalkan."**
 
 ---
 
@@ -47,14 +81,6 @@ Saya senang memecahkan masalah kompleks dan mengubah ide menjadi aplikasi yang f
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0d1117?style=for-the-badge&logo=roblox&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahidsatuu1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahidsatuu1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 ---
 ## ## 🌐 What I Build
 
